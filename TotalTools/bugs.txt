@@ -1,0 +1,5 @@
+El numero telefonico en el registro, no se guarda de la manera adecuada
+
+solidifcar la seguridad en el registro y en el login (evitar inyecciones en sql, etc)
+
+programar el backup de toda la data del sistema
